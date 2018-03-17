@@ -261,7 +261,7 @@ input[type=submit] {
   to{left: 50px;}
 }
 
-}
+
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes sc {
   from {background-color: red;}
